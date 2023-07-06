@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 27 19:49:57 2023
-
-@author: jaime
-"""
+# -*- coding: utf-*-
 
 import socket 
 import threading 
